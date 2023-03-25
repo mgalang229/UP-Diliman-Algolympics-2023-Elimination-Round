@@ -1,0 +1,17 @@
+[
+	{
+		"test": "3 2 1\nred 1000\nblue 100\ngreen 50\nred blue 2\nred green 3\nred\n"
+	},
+	{
+		"test": "5 4 2\nred 1000\nblue 150\ngreen 50\norange 10\nviolet 5\nred blue 2\nred green 3\nblue green 2\ngreen orange 4\nred blue\n"
+	},
+	{
+		"test": "5 0 2\nred 1000\nblue 150\ngreen 50\norange 10\nviolet 5\nred blue\n"
+	},
+	{
+		"test": "2 1 2\nred 1000\ngreen 5\nred green 5\nred green\n"
+	},
+	{
+		"test": "5 6 5\nred 570\nblue 200\ngreen 30\norange 100\nviolet 80\nred green 2\nred blue 3\nblue violet 2\ngreen violet 1\ngreen orange 1\nblue green 1\nred blue green violet orange\n"
+	}
+]

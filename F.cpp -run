@@ -1,0 +1,43 @@
+
+3 2 1
+red 1000
+blue 100
+green 50
+red blue 2
+red green 3
+red
+
+0
+
+5 4 2
+red 1000
+blue 150
+green 50
+orange 10
+violet 5
+red blue 2
+red green 3
+blue green 2
+green orange 4
+red blue
+
+0 0
+
+5 0 2
+red 1000
+blue 150
+green 50
+orange 10
+violet 5
+red blue
+
+0 0
+
+2 1 2
+red 1000
+green 5
+red green 5
+red green
+
+0 0
+
